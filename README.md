@@ -1,11 +1,17 @@
-<h1 align="center">FikranDev</h1>
+<h1 align="center">Mohammad Fikran</h1>
 
 <p align="center">
   <strong>AI Engineering · Full-Stack Development · Conversion Tracking</strong>
 </p>
 
 <p align="center">
-  Mohammad Fikran · AI engineer and full-stack developer based in Bekasi, Indonesia.<br>
+  <a href="https://fikran.dev/">
+    <img src="assets/fikrandev-motion.gif" width="820" alt="FikranDev logo with animated AI engineering and automation elements">
+  </a>
+</p>
+
+<p align="center">
+  AI engineer and full-stack developer based in Bekasi, Indonesia.<br>
   I build AI agents, automate business workflows, and connect marketing data to sales.<br>
   Founder of <a href="https://dalekta.id/">Dalekta</a> · AI Club Bekasi organizer
 </p>
@@ -15,12 +21,6 @@
   <a href="https://dalekta.id/">Dalekta</a> ·
   <a href="https://github.com/Mhmdfikran">GitHub</a> ·
   <a href="https://www.instagram.com/mhmdfikrann/">Instagram</a>
-</p>
-
-<p align="center">
-  <a href="https://dalekta.id/">
-    <img src="assets/dalekta-motion.gif" width="820" alt="Dalekta logo surrounded by animated conversion-tracking signals">
-  </a>
 </p>
 
 ---
@@ -37,6 +37,12 @@ My work starts with the process a team needs to run: answering customers, follow
 ## Featured Product · Produk
 
 ### [Dalekta](https://dalekta.id/)
+
+<p align="center">
+  <a href="https://dalekta.id/">
+    <img src="assets/dalekta-motion.gif" width="820" alt="Dalekta logo surrounded by animated conversion-tracking signals">
+  </a>
+</p>
 
 **Follow the journey from an ad click to a WhatsApp sale.**
 
